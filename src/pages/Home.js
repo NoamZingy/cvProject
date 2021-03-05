@@ -61,7 +61,8 @@ const Home = () =>{
     <FaHandHoldingHeart className='sociali'/>
       <h4 className="my-4 font-weight-bold">Motivation</h4>
       <p className="grey-text">Highly motivated to succeed and loves to help.
-Very loyal to the workplace and constantly strives to learn and progress</p>
+Very loyal to the workplace and constantly strives to learn and progress
+Learns very fast and has a positive attitude. Creative and thinking outside the box.</p>
     </div>
   
 
@@ -69,7 +70,6 @@ Very loyal to the workplace and constantly strives to learn and progress</p>
     <FaAngellist className='sociali'/>
       <h4 className="my-4 font-weight-bold">Skills</h4>
       <p className="grey-text">
-Learns very fast and has a positive attitude. Creative and thinking outside the box.
 full stack web developer - specializes in front end, but knows well beck end.
 Specializes mainly - js, react, html, css, nodejs
 Excellent acquaintance - mysql, typescript, angular, mogoDB</p>
